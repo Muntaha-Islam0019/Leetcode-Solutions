@@ -1,4 +1,6 @@
-class Solution {
+import java.util.*;
+
+class KidsWithCandies {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         
         List<Boolean> finalList = new ArrayList<Boolean>();

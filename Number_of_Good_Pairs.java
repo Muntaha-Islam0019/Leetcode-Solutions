@@ -1,4 +1,4 @@
-class Solution {
+class NumberOfGoodPairs {
     public int numIdenticalPairs(int[] nums) {
 
         int numberOfGoodPairs = 0;
