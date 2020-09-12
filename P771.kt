@@ -1,4 +1,4 @@
-class Solution {
+class P771 {
     fun numJewelsInStones(J String, S String) Int {
         
         var counter Int = 0

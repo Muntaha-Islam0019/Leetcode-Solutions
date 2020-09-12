@@ -1,6 +1,6 @@
 import java.util.*;
 
-class KidsWithCandies {
+class P1431 {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         
         List<Boolean> finalList = new ArrayList<Boolean>();

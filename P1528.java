@@ -1,4 +1,4 @@
-class Shuffle_String {
+class P1528 {
     public String restoreString(String s, int[] indices) {
         
         String finalString = "";

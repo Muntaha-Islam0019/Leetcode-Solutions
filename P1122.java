@@ -1,4 +1,4 @@
-class RelativeSortArray {
+class P1122 {
     
     public int[] relativeSortArray(int[] arr1, int[] arr2) {
         

@@ -1,4 +1,4 @@
-class Solution {
+class P1108 {
     fun defangIPaddr(address: String): String {
         
         var stringToReturn: String
