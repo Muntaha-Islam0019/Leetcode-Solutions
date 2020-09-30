@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 select id,
        sum(case when month='Jan' then revenue end) Jan_Revenue,
        sum(case when month='Feb' then revenue end) Feb_Revenue,
