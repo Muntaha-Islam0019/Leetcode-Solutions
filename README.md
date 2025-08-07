@@ -1,6 +1,30 @@
-# Leetcode-Solutions
+# LeetCode Solutions
 
-LeetCode is a website where people–mostly software engineers–practice their coding skills. There are 800+ questions (and growing), each with multiple solutions. Questions are ranked by level of difficulty: easy, medium, and hard.
+This repository contains my personal solutions to coding problems on [LeetCode](https://leetcode.com/), written in **Python**, **Java**, **C++**, and **Kotlin**.
 
-Initially, I want to point out a situation that I am not a pro-programmer! I'm adding these solutions for everyone who wants to be benefited, including me! These are my solutions for problems from LeetCode. I'll try to add more and solutions gradually. Also, I kept it open for all. So, you can obviously commit or fork it out. Sometimes, as much I have experienced, we all need help to find solution of a particular problem or we want to check other avialable solutions to find the most efficient one. I am not saying that these are the most efficient solutions, but I hope these solutions will help you out in some way. Also, I'll be honored if you suggest another algorithm to solve a particular problem. So, each of your commit will help other programmers. Happy coding!
+I use this repo to:
+- Practice data structures and algorithms
+- Explore multiple problem-solving approaches
+- Track my interview prep progress across different languages
 
+---
+
+### 💡 Highlights
+
+- Multi-language solutions (Python, Java, C++, Kotlin)
+- Flat structure — each file named after its problem
+- Prioritizes readability and learning over strict optimization
+- Gradual shift toward Java for backend role prep
+
+---
+
+### 🤝 Contributions
+
+If you spot a better solution or want to suggest improvements:
+- Fork this repo
+- Submit a pull request
+- Or just star it and use as reference!
+
+---
+
+**Happy coding! 🚀**
