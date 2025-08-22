@@ -15,7 +15,7 @@ class ListNode {
     }
 }
 
-public class P21_enhanced {
+public class P21_v2 {
     public static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode(-1);
         ListNode tail = dummy;
